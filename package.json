@@ -1,0 +1,39 @@
+{
+    "name": "resourceflow",
+    "version": "1.0.0-alpha.1",
+    "description": "A CLI tool for copying and managing resource files in your projects.",
+    "author": "Kenan Gündoğan",
+    "license": "MIT",
+    "type": "module",
+    "main": "./src/cli.js",
+    "bin": {
+        "resourceflow": "./src/cli.js"
+    },
+    "scripts": {
+        "init": "node ./src/cli.js init",
+        "start": "node ./src/cli.js",
+        "build": "node ./src/cli.js"
+    },
+    "files": [
+        "src/*"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kenangundogan/resourceflow.git"
+    },
+    "bugs": {
+        "url": "https://github.com/kenangundogan/resourceflow/issues"
+    },
+    "homepage": "https://github.com/kenangundogan/resourceflow#readme",
+    "keywords": [
+        "resourceflow",
+        "copy-files",
+        "copy-folders",
+        "copy-assets",
+        "copy-resources"
+    ],
+    "dependencies": {
+        "fs-extra": "^11.2.0",
+        "picocolors": "^1.1.1"
+    }
+}
