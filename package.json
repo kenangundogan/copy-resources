@@ -1,6 +1,6 @@
 {
     "name": "resourceflow",
-    "version": "1.0.0-alpha.1",
+    "version": "1.0.0-alpha.2",
     "description": "A CLI tool for copying and managing resource files in your projects.",
     "author": "Kenan Gündoğan",
     "license": "MIT",
