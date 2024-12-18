@@ -131,6 +131,12 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ---
 
+## Created By
+
+This project was developed by Kenan Gündoğan. Contributions and feedback are welcome!
+
+---
+
 ## Contribution
 
 Contributions are welcome! If you have ideas or find bugs, feel free to open an issue or create a pull request on the GitHub repository.
